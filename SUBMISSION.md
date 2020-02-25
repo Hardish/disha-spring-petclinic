@@ -14,11 +14,11 @@
 
 5)5 pts The section of the POM file showing the coordinates after you’ve commented them out. ![Screen Capture #5](images/Image5.JPG)
 
-6)5 pts Your Travis CI dashboard showing the unsuccessful build after the breaking change.
+6)5 pts Your Travis CI dashboard showing the unsuccessful build after the breaking change. ![Screen Capture #6](images/Image6.JPG)
 
-7)5 pts Your Github repository with the readme.md file selected showing the build failed status after the Travis CI build fails.
+7)5 pts Your Github repository with the readme.md file selected showing the build failed status after the Travis CI build fails. ![Screen Capture #7](images/Image7.JPG)
 
-8)5 pts The section of the POM file showing the coordinates after you’ve fixed them.
+8)5 pts The section of the POM file showing the coordinates after you’ve fixed them.  ![Screen Capture #8](images/Image8.JPG)
 
 9)5 pts Your Travis CI dashboard showing the successful build after the breaking change has been fixed.
 
