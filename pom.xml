@@ -113,6 +113,7 @@
   </dependencies>
 
   <build>
+  <pluginManagement>
     <plugins>
       <plugin>
         <groupId>org.springframework.boot</groupId>
@@ -182,12 +183,12 @@
         <artifactId>wro4j-maven-plugin</artifactId>
         <version>${wro4j.version}</version>
         <executions>
-          <execution>
-            <phase>generate-resources</phase>
-            <goals>
-              <goal>run</goal>
-            </goals>
-          </execution>
+        <execution>
+        	<phase>generate-resources</phase>
+        	<goals>
+        		<goal>run</goal>
+        	</goals>
+        </execution>
         </executions>
         <configuration>
           <wroManagerFactory>ro.isdc.wro.maven.plugin.manager.factory.ConfigurableWroManagerFactory</wroManagerFactory>
@@ -210,6 +211,7 @@
         </dependencies>
       </plugin>
     </plugins>
+    </pluginManagement>
   </build>
 
   <!-- Apache 2 license -->
