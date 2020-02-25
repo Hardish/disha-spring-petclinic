@@ -21,5 +21,8 @@
 8)5 pts The section of the POM file showing the coordinates after you’ve fixed them.  ![Screen Capture #8](images/Image8.JPG)
 
 9)5 pts Your Travis CI dashboard showing the successful build after the breaking change has been fixed.
+![Screen Capture #9_1](images/Image9_1.JPG)
 
-10)5 pts Your Github repository with the readme.md file selected showing the build success status after the Travis CI build has recovered.
+![Screen Capture #9_2](images/Image9_2.JPG)
+
+10)5 pts Your Github repository with the readme.md file selected showing the build success status after the Travis CI build has recovered. ![Screen Capture #10](images/Image10.JPG)
