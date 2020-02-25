@@ -1,4 +1,4 @@
-# Spring PetClinic Sample Application [![Build Status](https://travis-ci.org/Hardish/spring-petclinic/)
+# Spring PetClinic Sample Application [![Build Status](https://api.travis-ci.org/Hardish/spring-petclinic.png?branch=master)](https://travis-ci.org/Hardish/spring-petclinic/)
 
 ## Understanding the Spring Petclinic application with a few diagrams
 <a href="https://speakerdeck.com/michaelisvy/spring-petclinic-sample-application">See the presentation here</a>
